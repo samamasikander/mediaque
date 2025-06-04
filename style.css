@@ -1,0 +1,27 @@
+@media max-width(680px) {
+    .body{
+        width:"100px"
+    }
+    
+}
+
+#left{
+    display: flex;
+    padding-left: 40px;
+    gap: 20px;
+    float: left;
+    
+}
+.top{
+    display: inline-block;
+    padding: 10px;
+}
+.flow{
+    padding-bottom: 10px;
+    padding-left: 20px;
+}
+p{
+    padding-left: 20px;
+    padding-bottom: 50px;
+    font-family: sans-serif;
+}
